@@ -5,7 +5,7 @@ title: "Generic Fantasyland Wiki"
 # with your folder name, otherwise leave it empty
 baseurl: ""
 # (string) Description of your wiki
-description:
+description: This is the wiki containing all of the spoiler-free information about the homebrew world for Wade's campiagn in D&D 5e. 
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
