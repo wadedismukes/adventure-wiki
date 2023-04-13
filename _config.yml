@@ -3,7 +3,7 @@ remote_theme: Drassil/git-wiki-theme@master
 title: "Generic Fantasyland Wiki"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
 # with your folder name, otherwise leave it empty
-baseurl: ""
+baseurl: "/"
 # (string) Description of your wiki
 description: This is the wiki containing all of the spoiler-free information about the homebrew world for Wade's campiagn in D&D 5e. 
 # (boolean) disable edit functionalities (edit/delete/add pages)
@@ -23,7 +23,7 @@ paginate: 5
 paginate_path: "/blog/page:num"
 permalink: /blog/posts/:year/:month/:day/:title:output_ext
 # (boolean) Enable/disable download buttons in sidebar
-show_downloads: true
+show_downloads: false 
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
