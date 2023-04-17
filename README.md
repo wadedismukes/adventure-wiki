@@ -4,14 +4,14 @@ This is the wiki page for the D&D homebrew world. If you want more information a
 
 ## Peoples
 
-[Dwarfs](wiki/dwarfs.md)
-[Elves](wiki/elves.md)
-[Humans](wiki/humans.md)
-[Dragons](wiki/dragons.md)
-[Dragonborn](wiki/dragonborn.md)
-[Gnomes](wiki/gnomes.md)
-[Halflings](wiki/halflings.md)
-[Orcs](wiki/orcs.md)
+* [Dwarfs](wiki/dwarfs.md)
+* [Elves](wiki/elves.md)
+* [Humans](wiki/humans.md)
+* [Dragons](wiki/dragons.md)
+* [Dragonborn](wiki/dragonborn.md)
+* [Gnomes](wiki/gnomes.md)
+* [Halflings](wiki/halflings.md)
+* [Orcs](wiki/orcs.md)
 
 ## History
 
@@ -25,6 +25,6 @@ A sampling of the [deities](wiki/deities.md).
 
 This is some of the basic ideas (poorly organized) of the cosmology.
 
-[Outer Planes](wiki/outer-planes.md) (heavens/hells)
-[Elemental Planes](wiki/elemental-planes.md) (elements)
-[Inner Planes](wiki/inner-planes.md) (Astraeus itself, the Feywild, the Shadowfell)
+* [Outer Planes](wiki/outer-planes.md) (heavens/hells)
+* [Elemental Planes](wiki/elemental-planes.md) (elements)
+* [Inner Planes](wiki/inner-planes.md) (Astraeus itself, the Feywild, the Shadowfell)
