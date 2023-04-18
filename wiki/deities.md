@@ -1,6 +1,7 @@
 ## Religion in Astraeus
 
 There is one major religion in this region: the [Church of the Good Three](good-three.md). Good clerics follow the teachings of this church and revere these three gods and perhaps any number of lesser deities that may actually be the beings granting them spells. 
+
 | **God**   | **Areas of Influence**                              | **Created by** | **Domains**                | **Alignment** |
 |-----------|-----------------------------------------------------|----------------|----------------------------|---------------|
 | Zio       | Justice, Protection, Honesty, Bravery, Orcs, Humans | Auriel         | War, Light, Life, Order    | LG            |
