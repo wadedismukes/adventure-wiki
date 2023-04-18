@@ -81,4 +81,21 @@ Acolytes are young folks training to become part of the clergy of the Church of 
 
 ### Factions
 
-#### The Order of 
+The largest faction is the church itself which functions as a large political organization.
+
+#### The Order of the Threefold Path
+
+* This order of monks is dedicated to following the three virtues embodied by the Good Three: justice, creativity, and humility.
+* Members engage in a rigorous regimen of meditation, prayer, and physical training to develop their minds, bodies, and spirits.
+* The order emphasizes service to others, and members often work as healers, protectors, educators, or social workers in the surrounding communities.
+* The order is led by a Master of the Threefold Path who is considered the ultimate authority on matters of spiritual practice and discipline.
+
+#### The Tribunal
+
+* This is the judicial arm of the Church of the Good Three, they also act in intelligence gathering and advising to kingdoms and city-states
+* They are currently trying to enact laws to control the use of magic around the Thalimor Sea region
+* They believe arcane magic is dangerous and cite the results of the War of the Feycerrag as evidence
+
+
+
+

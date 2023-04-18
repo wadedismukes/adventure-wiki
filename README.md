@@ -1,6 +1,6 @@
 # Astraeus 
 
-This is the wiki page for the D&D homebrew world. If you want more information about a particular kingdom, species, or god this will be the place to find it. Our campaign will start in the tiny mining town of Honeydale on the edge of the Kingdom of Angonia where rumors tell of a white dragon moving in nearby causing trouble for the villagers and opportunity for enterprising adventurers.
+This is the wiki page for the D&D homebrew world. If you want more information about a particular kingdom, species, or god this will be the place to find it. Our campaign will start in the tiny mining town of Honeydale. Honeydale is on the edge of the Kingdom of Angonia. Here rumors tell of the emergence of a white dragon moving into Icespire Peak, causing trouble for the villagers and opportunity for enterprising adventurers.
 
 ## Peoples
 
