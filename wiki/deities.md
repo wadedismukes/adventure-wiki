@@ -6,7 +6,7 @@ There is one major religion in this region: the Church of the Good Three. Good c
 |---------|-----------------------------------------------------|----------------|----------------------------|-----------|
 | Zio     | Justive, Protection, Honesty, Bravery, Orcs, Humans | Auriel         | War, Light, Life, Order    | LG        |
 | Olia    | Creativity, Craftsmanship, Beauty, Dwarfs           | Auriel         | Knowledge, Light           | CG        |
-| Havra   | Nature, Growth, Moral Races, Halflings              | Auriel         | Nature, Life, Peace        | NG        |
+| Havra   | Nature, Growth, Mortal Races, Halflings              | Auriel         | Nature, Life, Peace        | NG        |
 | Mab     | Beauty, goblins, wetlands, dusk, trickery, hunting  | Zio and Olia   | Twilight, Trickery, Nature | CN        |
 | Titania | Beauty, elves, forests, dawn, trickery              | Zio and Olia   | Twilight, Trickery, Nature | CN        |
 | Bojar   | Agriculture, pastoralism                            | Zio and Havra  | Nature, Life               | LG        |
